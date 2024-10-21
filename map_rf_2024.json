@@ -180129,9 +180129,7 @@
              "VARNAME_1" : "Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad",
              "NL_NAME_1" : "",
              "TYPE_1" : "Oblast'",
-             "ENGTYPE_1" : "Region",
-             "Shape_Leng" : 12.9837520605,
-             "Shape_Area" : 3.32555281178
+             "ENGTYPE_1" : "Region"
           }
         },
         {
@@ -180146,9 +180144,7 @@
                 "VARNAME_1" : "Donetsk|Donetskaya Oblast'|Donezk|Stalino",
                 "NL_NAME_1" : "",
                 "TYPE_1" : "Oblast'",
-                "ENGTYPE_1" : "Region",
-                "Shape_Leng" : 13.7488682909,
-                "Shape_Area" : 3.2092688789
+                "ENGTYPE_1" : "Region"
             }
         },
         {
@@ -180163,9 +180159,7 @@
                 "VARNAME_1" : "Cherson|Khersons'ka Oblast'",
                 "NL_NAME_1" : "",
                 "TYPE_1" : "Oblast'",
-                "ENGTYPE_1" : "Region",
-                "Shape_Leng" : 19.7551127503,
-                "Shape_Area" : 3.05002991768
+                "ENGTYPE_1" : "Region"
             }
         }
       ]
