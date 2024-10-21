@@ -180018,48 +180018,14 @@
         },
         {
           "arcs": [
-            [
-              [
-                2117
-              ]
-            ],
-            [
-              [
-                2118
-              ]
-            ],
-            [
-              [
-                2119,
-                2120,
-                2121,
-                2122,
-                2123,
-                2124,
-                -861,
-                2125,
-                -685,
-                2126,
-                2127,
-                -682,
-                2128,
-                -680,
-                2129,
-                2130,
-                2131,
-                -676,
-                2132,
-                -674,
-                2133,
-                -672,
-                2134,
-                -670,
-                2135,
-                -668,
-                2136,
-                2137,
-                -665,
-                2138,
+            [[2117]],
+            [[2118]],
+            [[2119,2120,2121,2122,2123,
+              2124,-861,2125,-685,2126,
+              2127,-682,2128,-680,2129,
+              2130,2131,-676,2132,-674,
+              2133,-672,2134,-670,2135,
+              -668,2136,2137,-665,2138,
                 2139,
                 2140,
                 2141,
@@ -180150,6 +180116,57 @@
             "TYPE_1": "Kray",
             "ENGTYPE_1": "Territory"
           }
+        },
+        {
+          "arcs" : [[-34, -39, 65]],
+          "type": "Polygon",
+          "properties" : {
+             "ID_0" : 94,
+             "ISO" : "RUS",
+             "NAME_0" : "Russia",
+             "ID_1" : 202,
+             "NAME_1" : "Luhans'k",
+             "VARNAME_1" : "Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad",
+             "NL_NAME_1" : "",
+             "TYPE_1" : "Oblast'",
+             "ENGTYPE_1" : "Region",
+             "Shape_Leng" : 12.9837520605,
+             "Shape_Area" : 3.32555281178
+          }
+        },
+        {
+            "arcs" : [[30, 31, -25, 32, 33]],
+            "type" : "Polygon",
+            "properties" : {
+                "ID_0" : 93,
+                "ISO" : "RUS",
+                "NAME_0" : "Russia",
+                "ID_1" : 201,
+                "NAME_1" : "Donets'k",
+                "VARNAME_1" : "Donetsk|Donetskaya Oblast'|Donezk|Stalino",
+                "NL_NAME_1" : "",
+                "TYPE_1" : "Oblast'",
+                "ENGTYPE_1" : "Region",
+                "Shape_Leng" : 13.7488682909,
+                "Shape_Area" : 3.2092688789
+            }
+        },
+        {
+            "arcs" : [[[42]], [[-16, -23, 47, 48, 49, -27, 50, 51, -17]]],
+            "type" : "MultiPolygon",
+            "properties" : {
+                "ID_0" : 95,
+                "ISO" : "RUS",
+                "NAME_0" : "Russia",
+                "ID_1" : 203,
+                "NAME_1" : "Kherson",
+                "VARNAME_1" : "Cherson|Khersons'ka Oblast'",
+                "NL_NAME_1" : "",
+                "TYPE_1" : "Oblast'",
+                "ENGTYPE_1" : "Region",
+                "Shape_Leng" : 19.7551127503,
+                "Shape_Area" : 3.05002991768
+            }
         }
       ]
     }
